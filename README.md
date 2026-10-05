@@ -7,3 +7,4 @@ Personal profile page for Suraj D H, built with plain HTML and CSS and published
 - `index.html` — page content and structure
 - `style.css` — layout, typography, and colors
 - `profile.png` — profile photograph
+- `fonts/` — Monaspace Xenon BoldItalic webfont, licensed under the SIL Open Font License

@@ -1,9 +1,18 @@
+@font-face {
+  font-family: "Monaspace Xenon";
+  src: url("fonts/MonaspaceXenon-BoldItalic.woff2");
+  font-weight: bold;
+  font-style: italic;
+}
+
 body {
   background-color: #1b1a18;
   color: #eae7e1;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-size: 17px;
-  line-height: 1.7;
+  font-family: "Monaspace Xenon", monospace;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.8;
   max-width: 700px;
   margin: 0 auto;
   padding: 56px 24px 40px;
@@ -43,9 +52,7 @@ li {
 }
 
 h1 {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 2.1rem;
-  font-weight: normal;
+  font-size: 2rem;
   color: #f2efe9;
   margin: 20px 0 6px;
 }
@@ -57,7 +64,7 @@ h1 {
 
 .nav {
   color: #a09b91;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .nav a {
@@ -71,15 +78,14 @@ h1 {
 }
 
 .section h2 {
-  font-size: 1.1rem;
-  font-weight: 600;
+  font-size: 1.15rem;
   color: #f2efe9;
   margin: 0 0 12px;
 }
 
 .footer {
   color: #7d786e;
-  font-size: 14px;
+  font-size: 13px;
   text-align: center;
   margin-top: 40px;
 }
