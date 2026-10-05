@@ -1,16 +1,7 @@
-@font-face {
-  font-family: "Monaspace Xenon";
-  src: url("fonts/MonaspaceXenon-BoldItalic.woff2");
-  font-weight: bold;
-  font-style: italic;
-}
-
 body {
   background-color: #1b1a18;
   color: #eae7e1;
-  font-family: "Monaspace Xenon", monospace;
-  font-weight: bold;
-  font-style: italic;
+  font-family: Consolas, "Courier New", monospace;
   font-size: 16px;
   line-height: 1.8;
   max-width: 700px;
